@@ -1,2 +1,3 @@
-# Project name
+# Project Template
 
+Full-stack development project template
